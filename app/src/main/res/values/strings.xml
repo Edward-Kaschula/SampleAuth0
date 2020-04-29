@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleAuth0</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="com_auth0_client_id"></string>
+    <string name="com_auth0_domain"></string>
+</resources>
